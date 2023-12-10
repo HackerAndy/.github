@@ -1,0 +1,14 @@
+
+{   
+    "name": "Java Maven workflow",
+    "description": "Java workflow for maven projects performing a build > Unit Test > deploy to development",
+    "iconName": "BW2_icon",
+    "categories": [
+        "Java",
+        "testing",
+        "Automation"
+    ],
+    "filePatterns": [
+        "pom\.xml",
+    ]
+}
